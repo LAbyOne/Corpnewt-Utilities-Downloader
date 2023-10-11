@@ -9,12 +9,12 @@ Simple Downloader for Corpnewt Tools, a personal selection of Various Utilities 
 #
 Since all tools use Python, it will also check if it is already present
 
-<img src="images/pycheck.png" width="460" height="275">
+<img src="images/pyCheck.png" width="460" height="275">
 
 #
 and eventually Downloaded and Installed on the fly
 
-<img src="images/pyinstaller3.png" width="460" height="275">
+<img src="images/pyInstaller3.png" width="460" height="275">
 
 #
 [Download](https://raw.githubusercontent.com/LAbyOne/Corpnewt-Utilities/main/images/Corpnewt%20Utilities.dmg)
