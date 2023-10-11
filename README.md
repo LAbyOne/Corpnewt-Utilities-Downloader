@@ -26,5 +26,3 @@ Credits:
 for creating an maintaining all the Utilities listed on this tool
 
 [Me](https://github.com/LAbyOne), well i just wrote the Downloader...
-
-Corpnewt-Utilities-Downloader
